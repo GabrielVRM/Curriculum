@@ -6,7 +6,7 @@ export function Page() {
      <h1 className="tracking-[0.5rem] text-6xl">
     Gabriel <strong className='text-rose-400'>Vieira</strong>
      </h1>
-     <h2 className='tracking-[0.3rem] text-2xl mt-2 px-3 sm:px-0 sm:text-[15px] '>sou um Developer Web - Front-end</h2>
+     <h2 className='tracking-[0.3rem] text-2xl mt-2 px-3 sm:px-0 sm:text-[15px] '>sou um Developer Web Front-end</h2>
      <a href="https://wa.me/5511986431855" className='bg-white text-lg border rounded-full h-10 w-56 flex items-center justify-center m-7 text-black hover:text-gray-50 hover:bg-black sm:mt-16 sm:mx-5'>Contrate-me</a>
      </div>
     </div>

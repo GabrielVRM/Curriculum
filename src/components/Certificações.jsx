@@ -1,3 +1,6 @@
+import CertificadoHarvard from "../assets/PDF´s/Certificado Havard.png"
+import CertificadoPowerBI from "../assets/PDF´s/CertificadoPowerBi.jpg"
+
 export function Experience() {
   return (
     <div className="p-10 w-full h-full sm:overflow-hidden">
@@ -17,11 +20,11 @@ export function Experience() {
             <strong className="text-red-500"> - Incompleto</strong>
           </span>
           <span className="mt-7 ">
-            <a href="#">Harvard  - introdução a Ciências da Computação</a>
+            <a href={CertificadoHarvard}>Harvard  - introdução a Ciências da Computação</a>
             <strong className="text-green-500"> - Concluído</strong>
           </span>
           <span className="mt-7">
-            <a href="#">JavaScript - Udemy</a>{" "}
+            <a href="#">JavaScript - Udemy</a>
             <strong className="text-yellow-500"> - Em Andamento</strong>
           </span>
           <span className="mt-7">
@@ -29,7 +32,7 @@ export function Experience() {
             <strong className="text-yellow-500"> - Em Andamento</strong>
           </span>
           <span className="mt-7">
-            <a href="#">Power Bi - Udemy</a>
+            <a href={CertificadoPowerBI}>Power Bi - Udemy</a>
             <strong className="text-green-500"> - Concluído</strong>
           </span>
           <span className="mt-7">
