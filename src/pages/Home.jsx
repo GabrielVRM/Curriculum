@@ -18,7 +18,7 @@ export function Home() {
       <div className=" mt-48 h-[22%] sm:h-[16%] bg-gray-100">
         <AboutMe />
       </div>
-      <div className="h-[16%] sm:h-[10%] bg-black" >
+      <div className="h-[16%] sm:h-[14%] bg-black" >
         <Experience />
       </div>
       <div className="h-[50%] sm:h-[60%] bg-white" >
