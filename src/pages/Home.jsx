@@ -27,7 +27,7 @@ export function Home() {
       <div className="h-[12%] bg-black-700 sm:h-[10%] ">
         <Contact />
       </div>
-      <div className=" bg-white h-auto sm:h-[8%]">
+      <div className=" bg-white h-auto sm:h-[auto]">
         <Footer />
       </div>
     </div>
