@@ -9,7 +9,7 @@ export function AboutMe() {
         <div className=" text-black sm:text-center">
           <span>Quem sou eu ? </span>
         </div>
-        <div className=" w-5 h-[0.5px] m-4 border bg-slate-600" />
+        <div className=" w-10 h-[0.5px] m-4 border bg-slate-600" />
       </div>
 
       <div className="flex justify-center w-full p-32 sm:grid grid-cols-1 sm:p-0 sm:my-20">
