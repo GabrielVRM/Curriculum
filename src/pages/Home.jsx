@@ -3,7 +3,7 @@ import { Contact } from "../components/Contact";
 import { Footer } from "../components/Footer";
 import { Header } from "../components/Header";
 import { Page } from "../components/Page";
-import { Experience } from "../components/Experience";
+import { Experience } from "../components/Certificações";
 import { Skills } from "../components/Skills";
 
 export function Home() {

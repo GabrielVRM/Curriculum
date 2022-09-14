@@ -18,7 +18,7 @@ export function Skills() {
       <div className="grid grid-cols-2 p-20 sm:p-0 sm:grid sm:grid-cols-1">
         <div className=" flex justify-center  sm:p-12 ">
           <span className="text-black text-6xl sm:text-4xl ">
-            Minhas especialidades competencias e experiencias
+          Minhas especialidades, competências e experiencias!
           </span>
         </div>
         <div className="flex justify-text text-justify py-5 sm:py-0 p-0 ">
@@ -39,17 +39,17 @@ analisando e criando Dashboards no Google Data Studio Google
 Sheeats e Excel
 </span>
 <span className="text-center grid grid-cols-1 mt-10">
-<strong>Onepay estagiario de Ti - 06/2021 a 03/2021</strong>
+<strong>Onepay estagiário de Ti - 06/2021 a 03/2021</strong>
 </span>
 <span className="text-center grid grid-cols-1">
 Realizei Suporte Técnico, Manutenção de Desktops, Atualização de
-Sistema Operacional (Windows e Ubunto), configurações de E-mail,
+Sistema Operacional (Windows e Ubuntu), configurações de E-mail,
 auxiliei em projetos de Desenvolvimento, Trabalhei com Linguagens
 como JavaScript, Html, Css, Frameworks como React e bibliotecas de
-estilização como Material UI e Frame Motion criei uma pagina de
-Rastreio para nossa empresa, consumindo API do Correios e Mandaê,
+estilização como Material UI e Frame Motion criei uma página de
+Rastreio para nossa empresa, consumindo API do correio e Mandaê,
 Realizei extrações no Banco de Dados, utilizando Mysql workbench e
-fiz atualizações nas tabelas, realizei upgrade na nossa landing
+efetuei atualizações nas tabelas, realizei upgrade na nossa landing
 page através do wordpress.
 </span>
 
@@ -58,10 +58,9 @@ page através do wordpress.
 </span>
 <span className="text-center grid grid-cols-1">
 Banco de Dados Mysql - Utilizando a Linguagem Sql manipulando
-dados para extrair relarorios e realizar updates, Suporte Tecnico
-em Geral ( manutenção em computadores e auxilio rotineiro com
-problemas de logica para excel ou linguagens de programação)
-Auxilio em problemas no Dashboard, utilizando React JS, Material
+dados para extrair relatórios e realizar updates, Suporte Técnico, em Geral (manutenção em computadores e auxílio rotineiro com
+problemas de lógica para Excel ou linguagens de programação)
+auxílio em problemas no Dashboard, utilizando React JS, Material
 UI. Manutenção na nossa landing Page com Wordpress.
 </span>
 </div>
