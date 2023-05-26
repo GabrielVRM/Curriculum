@@ -3,7 +3,7 @@ import CertificadoPowerBI from "../assets/PDF´s/CertificadoPowerBi.jpg"
 
 export function Experience() {
   return (
-    <div className="p-10 w-full h-full sm:overflow-hidden">
+    <div className="p-[20px] w-full h-full sm:overflow-hidden">
       <span className="flex justify-center text-4xl  text-white">Certificações</span>
       <div className="flex items-center justify-center">
         <div className="w-10 h-[0.5px] m-4 border bg-white " />
