@@ -1,6 +1,3 @@
-import correios from '../assets/correios.png'
-import youtube from '../assets/youtube.png'
-import netflix from '../assets/netflix.png'
 
 
 export const listImageLenguagens = [
@@ -49,18 +46,9 @@ export const listImageLenguagens = [
 ];
 export function Projects() {
 
-  const listImage = [
-{
-    img:correios,
-},
-{
-    img:netflix,
-},
-{
-    img:youtube,
-}
 
-  ]
+
+  
 
   return (
     <div className="p-10 w-full h-full sm:overflow-hidden">
