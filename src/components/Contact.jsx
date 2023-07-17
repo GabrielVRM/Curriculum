@@ -1,6 +1,6 @@
 export function Contact() {
   return (
-    <div id="contact" className="p-20">
+    <div id="contact" className="p-5">
       <span className="flex justify-center text-4xl  text-white">Contato</span>
       <div className="flex items-center justify-center">
         <div className="w-10 h-[0.5px] m-4 border bg-white " />

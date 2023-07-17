@@ -68,18 +68,26 @@ UI. Manutenção na nossa landing Page com Wordpress.
         <div className=" block justify-center w-full mt-10 text-black text-lg sm:text-1xl ">
           <span className="block mt-12  ">HTML</span>
           <div className="border border-lime-500 w-[100%]  "></div>
-          <span className="block mt-6 ">CSS</span>
+          <span className="block mt-6 ">CSS & frameworks</span>
           <div className="border border-lime-500 w-[80%]"></div>
           <span className="block mt-6 ">JavaScript</span>
-          <div className="border border-yellow-400 w-[50%]"></div>
+          <div className="border border-lime-500 w-[80%]"></div>
           <span className="block mt-6 ">ReactJS</span>
-          <div className="border border-red-500 w-[20%]"></div>
+          <div className="border border-lime-500 w-[80%]"></div>
+          <span className="block mt-6 ">TypeScript</span>
+          <div className="border border-lime-500 w-[70%]"></div>
+          <span className="block mt-6 ">Docker</span>
+          <div className="border border-lime-500 w-[70%]"></div>
+          <span className="block mt-6 ">Postman</span>
+          <div className="border border-lime-500 w-[70%]"></div>
+          <span className="block mt-6 ">NodeJs - Express </span>
+          <div className="border border-lime-500 w-[70%]"></div>
           <span className="block mt-6 ">SQL</span>
-          <div className="border border-lime-500 w-[60%]"></div>
+          <div className="border border-lime-500 w-[80%]"></div>
           <span className="block mt-6 ">Mysql Workbanch</span>
           <div className="border border-yellow-400 w-[50%]"></div>
           <span className="block mt-6 ">GitHub</span>
-          <div className="border border-lime-500 w-[70%]"></div>
+          <div className="border border-lime-500 w-[100%]"></div>
         </div>
 
         <div className=" grid grid-cols-3 w-full md:p-2 gap-8 m-20 sm:m-0 sm:my-28 sm:w-full sm:grid-cols-3">

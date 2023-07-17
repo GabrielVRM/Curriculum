@@ -19,10 +19,9 @@ export function AboutMe() {
           </h2>
           <p className="text-1xl sm:text-center">
             {" "}
-            Developer com foco em Front-end, porém tive um pouco de contato com
-            back-end, com foco na linguagem SQL em Banco de Dados - MySql.
-            Ingressei recentemente nesta área, estou cerca de 1 ano como
-            programador, atualmente moro no Grajaú, tenho 20 anos, gosto de praticar esportes, e sair socialmente. 
+            Developer Full-Stack, porém com foco em front-end.
+            Ingressei recentemente nesta área, estou cerca de 1 ano e meio como
+            programador, atualmente moro no Grajaú, tenho 21 anos, gosto de praticar esportes, e sair socialmente. 
           </p>
         </div>
         <div className="text-black w-3/4 sm:text-center  ">

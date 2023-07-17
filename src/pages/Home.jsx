@@ -10,24 +10,22 @@ export function Home() {
   return (
 
     
-    <div className="h-[520vh]">
-      <div className="h-[3%]">
+    <div className="h-min[100%]">
+      <div className="h-min[100%]">
       <Header/>
       </div>
       <Page />
-      <div className=" mt-48 h-[22%] sm:h-[16%] bg-gray-100">
+      <div className=" mt-48 h-min[100%]  bg-gray-100">
         <AboutMe />
       </div>
-      <div className="h-[16%] sm:h-[14%] bg-black" >
-        <Experience />
+      <div className="h-[850px] bg-gray-900">
+        <Experience  />
       </div>
-      <div className="h-[50%] sm:h-[60%] bg-white" >
+      <div className="h-min[100%]  bg-white" >
         <Skills />
       </div>
-      <div className="h-[12%] bg-black-700 sm:h-[10%] ">
+      <div className="h-screen bg-black-700 ">
         <Contact />
-      </div>
-      <div className=" bg-white h-auto sm:h-[auto]">
         <Footer />
       </div>
     </div>
