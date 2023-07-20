@@ -39,7 +39,7 @@ analisando e criando Dashboards no Google Data Studio Google
 Sheeats e Excel
 </span>
 <span className="text-center grid grid-cols-1 mt-10">
-<strong>Onepay estagiário de Ti - 06/2021 a 03/2021</strong>
+<strong>Onepay estagiário de Ti - 06/2021 a 03/2022</strong>
 </span>
 <span className="text-center grid grid-cols-1">
 Realizei Suporte Técnico, Manutenção de Desktops, Atualização de
