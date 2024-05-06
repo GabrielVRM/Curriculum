@@ -19,58 +19,115 @@ export function Experience() {
         <div className=" text-white text-center">
           <span>Cursos e certificações </span>
         </div>
+
         <div className=" w-10 h-[0.5px] m-4 border bg-white" />
       </div>
       <div className="flex justify-center w-full h-16 mt-10 gap-10 ">
         <div className=" justify-center text-center items-center grid grid-cols-1">
-          <a className="mt-7  hover:cursor-pointer hover:animate-spin  hover:scale-110 ">
+          <div className=" text-white text-center">
+            <div className="flex items-center justify-center ">
+              <span className="text-gray-300 text-xl ">Graduações</span>
+            </div>
+          </div>
+          <a className="mt-2  hover:cursor-pointer hover:animate-spin  hover:scale-110 ">
             <span href="#">Análise e Desenvolvimento de Sistemas - Unisa</span>
             <strong className="text-red-500"> - Incompleto</strong>
           </a>
-          <a href={fullstack} className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110 ">
+          <div className="flex items-center justify-center mt-10">
+            <span className="text-gray-300 text-xl ">Onebitcode</span>
+          </div>
+          <a
+            href={fullstack}
+            className="mt-2 hover:cursor-pointer hover:animate-spin hover:scale-110 "
+          >
             <span href="#">FullStack JavaScript</span>
-            <strong className="text-green-500">  - Concluído </strong>
-          </a>
-          <a href={CertificadoHarvard} className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110 ">
-            <span>
-              Harvard - introdução a Ciências da Computação
-            </span>
-            <strong className="text-green-500"> - Concluído</strong>
-          </a>
-          <a href={js} className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110">
-            <span >JavaScript Avançado</span>
             <strong className="text-green-500"> - Concluído </strong>
           </a>
-          <a href={CertificadoPowerBI} className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110">
-            <span >Power Bi - Udemy</span>
-            <strong className="text-green-500"> - Concluído</strong>
-          </a>
-          <a href="#" className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110">
-            <span >React</span>
-            <strong className="text-green-500"> - Concluído </strong>
-          </a>
-          <a href={CertificadoBancoDeDados} className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110">
-            <span >MySql</span>
-            <strong className="text-green-500"> - Concluido</strong>
-          </a>
-          <a href={docker} className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110">
-            <span >Docker</span>
-            <strong className="text-green-500"> - Concluido</strong>
-          </a>
-          <a  href={github} className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110">
-            <span >Git & Github</span>
-            <strong className="text-green-500"> - Concluido</strong>
-          </a>
-          <a href={nodejs} className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110">
-            <span >Node Js</span>
+        
+          <a
+            href={nodejs}
+            className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
+          >
+            <span>Node Js</span>
             <strong className="text-green-500"> - Concluido</strong>
           </a>{" "}
-          <a href={Bulma} className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110">
-            <span >Bulma</span>
+          <a
+            href={Bulma}
+            className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
+          >
+            <span>Bulma</span>
             <strong className="text-green-500"> - Concluido</strong>
           </a>
-          <a href={Bulma} className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110">
-            <span >WebScraping</span>
+          <a
+            href={Bulma}
+            className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
+          >
+            <span>WebScraping</span>
+            <strong className="text-green-500"> - Concluido</strong>
+          </a>
+      
+
+          <a
+            href={js}
+            className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
+          >
+            <span>JavaScript Avançado</span>
+            <strong className="text-green-500"> - Concluído </strong>
+          </a>
+          <a
+            href={docker}
+            className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
+          >
+            <span>Docker</span>
+            <strong className="text-green-500"> - Concluido</strong>
+          </a>
+          <a
+            href={CertificadoBancoDeDados}
+            className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
+          >
+            <span>MySql</span>
+            <strong className="text-green-500"> - Concluido</strong>
+          </a>
+
+          <div className="flex items-center justify-center mt-10">
+            <span className="text-gray-300 text-xl ">Havard</span>
+          </div>
+          <a
+            href={CertificadoHarvard}
+            className="mt-2 hover:cursor-pointer hover:animate-spin hover:scale-110 "
+          >
+            <span>Harvard - introdução a Ciências da Computação</span>
+            <strong className="text-green-500"> - Concluído</strong>
+          </a>
+       
+          <div className="flex items-center justify-center mt-10">
+            <span className="text-gray-300 text-xl ">Udemy</span>
+          </div>
+          <a
+            href={CertificadoPowerBI}
+            className="mt-2 hover:cursor-pointer hover:animate-spin hover:scale-110"
+          >
+            <span>Power Bi</span>
+            <strong className="text-green-500"> - Concluído</strong>
+          </a>
+      
+         
+       
+          <div className="flex items-center justify-center mt-10">
+            <span className="text-gray-300  text-xl">Rocketseat</span>
+          </div>
+          <a
+            href="#"
+            className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
+          >
+            <span>React</span>
+            <strong className="text-green-500"> - Concluído </strong>
+          </a>
+          <a
+            href={github}
+            className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
+          >
+            <span>Git & Github</span>
             <strong className="text-green-500"> - Concluido</strong>
           </a>
         </div>
