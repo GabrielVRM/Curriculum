@@ -23,10 +23,10 @@ export function Home() {
       <div className="h-[1250px] bg-gray-900">
         <Experience  />
       </div>
-      <div className="h-min[100%]  bg-white" >
+      <div className="h-min[100%]  bg-gray-100" >
         <Skills />
       </div>
-      <div className=" h-screen bg-black-700 ">
+      <div className=" h-auto bg-black-700 ">
         <Contact />
         <Footer />
       </div>

@@ -29,14 +29,14 @@ export function Experience() {
               <span className="text-gray-300 text-xl ">Graduações</span>
             </div>
           </div>
-          <a className="mt-2  hover:cursor-pointer hover:animate-spin  hover:scale-110 ">
+          <a  target="_blank" className="mt-2  hover:cursor-pointer hover:animate-spin  hover:scale-110 ">
             <span href="#">Análise e Desenvolvimento de Sistemas - Unisa</span>
             <strong className="text-red-500"> - Incompleto</strong>
           </a>
           <div className="flex items-center justify-center mt-10">
             <span className="text-gray-300 text-xl ">Onebitcode</span>
           </div>
-          <a
+          <a target="_blank"
             href={fullstack}
             className="mt-2 hover:cursor-pointer hover:animate-spin hover:scale-110 "
           >
@@ -44,21 +44,21 @@ export function Experience() {
             <strong className="text-green-500"> - Concluído </strong>
           </a>
         
-          <a
+          <a target="_blank"
             href={nodejs}
             className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
           >
             <span>Node Js</span>
             <strong className="text-green-500"> - Concluido</strong>
           </a>{" "}
-          <a
+          <a target="_blank"
             href={Bulma}
             className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
           >
             <span>Bulma</span>
             <strong className="text-green-500"> - Concluido</strong>
           </a>
-          <a
+          <a target="_blank"
             href={Bulma}
             className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
           >
@@ -67,21 +67,21 @@ export function Experience() {
           </a>
       
 
-          <a
+          <a target="_blank"
             href={js}
             className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
           >
             <span>JavaScript Avançado</span>
             <strong className="text-green-500"> - Concluído </strong>
           </a>
-          <a
+          <a target="_blank"
             href={docker}
             className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
           >
             <span>Docker</span>
             <strong className="text-green-500"> - Concluido</strong>
           </a>
-          <a
+          <a target="_blank"
             href={CertificadoBancoDeDados}
             className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
           >
@@ -92,7 +92,7 @@ export function Experience() {
           <div className="flex items-center justify-center mt-10">
             <span className="text-gray-300 text-xl ">Havard</span>
           </div>
-          <a
+          <a target="_blank"
             href={CertificadoHarvard}
             className="mt-2 hover:cursor-pointer hover:animate-spin hover:scale-110 "
           >
@@ -103,7 +103,7 @@ export function Experience() {
           <div className="flex items-center justify-center mt-10">
             <span className="text-gray-300 text-xl ">Udemy</span>
           </div>
-          <a
+          <a target="_blank"
             href={CertificadoPowerBI}
             className="mt-2 hover:cursor-pointer hover:animate-spin hover:scale-110"
           >
@@ -116,18 +116,43 @@ export function Experience() {
           <div className="flex items-center justify-center mt-10">
             <span className="text-gray-300  text-xl">Rocketseat</span>
           </div>
-          <a
-            href="#"
+          <a target="_blank"
+            href="https://app.rocketseat.com.br/certificates/81f3d8e1-d395-4d50-92a0-7201baafb9c7"
             className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
           >
-            <span>React</span>
+            <span>Frontend - React</span>
             <strong className="text-green-500"> - Concluído </strong>
           </a>
-          <a
-            href={github}
+          <a target="_blank"
+            href="https://app.rocketseat.com.br/certificates/45614819-c809-43fd-a3b1-d944f8f279a6"
             className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
           >
             <span>Git & Github</span>
+            <strong className="text-green-500"> - Concluido</strong>
+          </a>
+
+          <a target="_blank"
+            href="https://app.rocketseat.com.br/certificates/57bfa94a-0cf8-49ea-b18b-c016754eee51"
+            className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
+          >
+            <span>JavaScript</span>
+            <strong className="text-green-500"> - Concluido</strong>
+          </a>
+
+          <a target="_blank"
+            href="https://app.rocketseat.com.br/certificates/37817b8b-0d6f-4729-9ba1-6b26da1eb9c0"
+            className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
+          >
+            <span>Html & Css</span>
+            <strong className="text-green-500"> - Concluido</strong>
+          </a>
+
+          <a 
+            href="https://app.rocketseat.com.br/certificates/11368a67-aa44-49eb-b8cf-195573a8ab37"
+            target="_blank"
+            className="mt-7 hover:cursor-pointer hover:animate-spin hover:scale-110"
+          >
+            <span>Backend</span>
             <strong className="text-green-500"> - Concluido</strong>
           </a>
         </div>
