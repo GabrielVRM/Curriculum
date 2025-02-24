@@ -203,9 +203,11 @@ export function Skills() {
           >
             {expande ? "Ver menos" : "Ver mais"}
           </button>
-          <div className="text-center block mt-10 text-xl ">Front-End:</div>
+          <strong className="text-center block mt-10 text-xl ">
+            Front-End:
+          </strong>
 
-          <strong className=" flex justify-center gap-14 mt-8 mb-5">
+          <div className=" flex justify-center gap-14 mt-8 mb-5">
             <img
               className="w-10"
               src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg"
@@ -215,7 +217,7 @@ export function Skills() {
               src="            https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg
 "
             />{" "}
-          </strong>
+          </div>
           <p
             className={`text-center transition-all duration-300 sm:text-base ${
               expande.javascriptReact ? "" : "line-clamp-3"
